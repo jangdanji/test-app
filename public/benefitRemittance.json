@@ -1,0 +1,33 @@
+{
+    "code": 200,
+    "response_message": "성공",
+    "data": {
+        "totalCount": 2,
+        "list": [
+            {
+                "paymentDate": "2023-12-18",
+                "totalAmount": "0",
+                "incomeTax": "47",
+                "localIncomeTax": "4",
+                "transferFee": "0",
+                "actualPayout": "1,523",
+                "payingBankCode": "003",
+                "payingBankName": "IBK기업은행",
+                "accountNo": "337-131144-04-016",
+                "userName": "칼슨"
+            },
+            {
+                "paymentDate": "2023-12-18",
+                "totalAmount": "0",
+                "incomeTax": "90,108",
+                "localIncomeTax": "9,010",
+                "transferFee": "0",
+                "actualPayout": "2,904,494",
+                "payingBankCode": "003",
+                "payingBankName": "IBK기업은행",
+                "accountNo": "337-131144-04-016",
+                "userName": "페니"
+            }
+        ]
+    }
+}
